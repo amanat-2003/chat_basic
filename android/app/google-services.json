@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "782329119915",
+    "project_id": "chat-basic-277a2",
+    "storage_bucket": "chat-basic-277a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782329119915:android:9ac27c96c9d3ee524463ee",
+        "android_client_info": {
+          "package_name": "com.naindev.chatbasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782329119915-biunjcb4qr457ptpk70sj9ba3km460ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_G6dgC7QS94T07iWsAczUx0uPb3xJqw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782329119915-biunjcb4qr457ptpk70sj9ba3km460ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "782329119915-mqipnkb87p4fr0fpfu16kb0pvu6mp36d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatBasic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
