@@ -1,16 +1,47 @@
-# chat_basic
+# Chatting App
 
-A new Flutter project.
+This is a basic chatting application built with Flutter. Users can sign up, log in, chat with others, upload their profile pictures, and view the date and time of their chats.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Authentication**: Sign up and log in with your credentials.
+- **Real-time Chat**: Chat with other users in real-time.
+- **Profile Picture**: Upload and display your profile picture.
+- **Timestamped Messages**: View the date and time of each message.
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Watch the demo of the app [here](https://www.youtube.com/watch?v=BSquueGItU4).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Chatting App Video](https://img.youtube.com/vi/BSquueGItU4/0.jpg)](https://www.youtube.com/watch?v=BSquueGItU4)
+
+## Installation
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/amanat-2003/chat_basic.git
+    cd chat_basic
+    ```
+2. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+3. Run the app:
+    ```bash
+    flutter run
+    ```
+
+## Dependencies
+
+- `flutter`
+- `firebase_auth`
+- `cloud_firestore`
+- `firebase_storage`
+
+## Contributing
+
+Feel free to fork this repository and make your own improvements. Pull requests are welcome!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
